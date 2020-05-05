@@ -1,2 +1,2 @@
-# ASP_NET_CORE_Best_Practices
-Asp.net Core Best Practices
+# ModelsCourse
+ Exemplar for  Best Practices Models Course
