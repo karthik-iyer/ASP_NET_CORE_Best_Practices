@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "node init && ng serve",
+    "build": "node init && ng build",
     "watch": "ng build --watch=true --prod=false"
   },
   "private": true,
@@ -22,7 +22,7 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.21",
+    "@angular-devkit/build-angular": "^15.0.0",
     "@angular/cli": "^8.3.21",
     "@angular/compiler-cli": "~8.2.14",
     "@angular/language-service": "~8.2.14",
